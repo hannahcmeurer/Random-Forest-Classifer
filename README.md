@@ -4,15 +4,9 @@
 ![Test Image 6](https://github.com/hannahcmeurer/Random-Forest-Classifer/blob/master/Figures/Hastie%20Figure.JPG)
 Figure 15.11. T. Hastie, R. Tibshirani, and J. Friedman, The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer Science and Business Media, 2017.
 
-For this project these libraries must be installed for using with python3:
-pandas
-numpy
-seaborn
-matplotlib.pyplot
-matplotlib.colors ListedColormap
-sklearn.ensemble RandomForestClassifier
-sklearn preprocessing
-sklearn metrics
+For this project these must be installed for using with python3. 
+[Requirements Here](https://github.com/hannahcmeurer/Random-Forest-Classifer/blob/master/Requirements.txt)
+
 
  Completing this is for a CS599 course at NAU. 
  
